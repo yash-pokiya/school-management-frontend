@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Google Font already loaded via index.html */
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
